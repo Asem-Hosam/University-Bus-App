@@ -1,0 +1,1 @@
+{"flutter":{"platforms":{"android":{"default":{"projectId":"sinaapp-flutter","appId":"1:43870560152:android:2d2d547719f0ce85e155ed","fileOutput":"android/app/google-services.json"}},"dart":{"lib/firebase_options.dart":{"projectId":"sinaapp-flutter","configurations":{"android":"1:43870560152:android:2d2d547719f0ce85e155ed","ios":"1:43870560152:ios:283e1bb9b5670e3fe155ed"}}}}}}

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "43870560152",
+    "project_id": "sinaapp-flutter",
+    "storage_bucket": "sinaapp-flutter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43870560152:android:2d2d547719f0ce85e155ed",
+        "android_client_info": {
+          "package_name": "com.example.sinaapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWJPQU9wRGYImfMspRFbOrKxoVFOcxzf4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
